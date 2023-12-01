@@ -37,6 +37,7 @@ body{
 
 
 .content-title{
+    margin: 0px 33px;
     display:grid;
     grid-template-columns: 20% 80%;
     font-size: 2em;
@@ -56,6 +57,7 @@ body{
 }
 
 .question-main{
+    margin: 0px 33px;
     display:flex;
     flex-direction: column;
     justify-content: space-evenly;
